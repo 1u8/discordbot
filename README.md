@@ -10,6 +10,6 @@ Average python discord bot that has, banning, kicking, muting and welcoming comm
 **Then once you have edited the bot's code to fit your server, run it in the text editor or a VPS.**
 
 ***If it has succesfully executed the code, you should have this inside of your terminal or VPS shell.***
-[working-image](https://imgur.com/a/azr8xoP)
+(https://imgur.com/a/azr8xoP)
 
 *Enjoy the bot and have fun :)*
