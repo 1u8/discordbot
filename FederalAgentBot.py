@@ -48,9 +48,6 @@ async def helpme(ctx):
     )
     embed.set_author(name="Help!")
     embed.add_field(name=".helpme", value="Shows a list of commands", inline=True)
-    embed.add_field(name=".ban", value="Bans a member", inline=False)
-    embed.add_field(name=".kick", value="Kicks a member", inline=True)
-    embed.add_field(name=".mute", value="Mutes a member", inline=False)
 
     await ctx.send(embed=embed)
     
