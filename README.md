@@ -5,7 +5,7 @@ Average python discord bot that has, banning, kicking, muting and welcoming comm
 
 **Once you have it downloaded, open the `FederalAgentBot.py` file with any text editor.**
 
-**Once you have the main python coding opened, add your bot's token to the `client.run(*TOKENHERE*`**
+**Once you have the main python coding opened, add your bot's token to the `client.run('TOKEN')`**
 
 **Then once you have edited the bot's code to fit your server, run it in the text editor or a VPS.**
 
